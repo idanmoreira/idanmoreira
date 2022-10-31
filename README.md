@@ -1,4 +1,4 @@
-### Hi there 👋, you can call me Dan, I'm always looking to evolve by learning and improving my skills!
+## Hi there 👋, you can call me Dan, I'm always looking to evolve by learning and improving my skills!
 <div align="center">
   <a href="https://github.com/idanmoreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idanmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
