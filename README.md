@@ -1,12 +1,25 @@
-## Hi there 👋, you can call me Dan, I'm always looking to evolve by learning and improving my skills!
-<div align="center">
-  <a href="https://github.com/idanmoreira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=idanmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idanmoreira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=665ea9&height=120&section=header&text=Danilo+Moreira&fontSize=30&fontColor=1de58e&animation=twinkling&fontAlignY=35"/>
 
- ##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1de58e&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;you+can+call+me+Dan;I'm+always+looking+to+evolve;by+learning+and+improving+my+skills!;be+welcome!)](https://git.io/typing-svg)
+
+
+
+##
+<div>
+  <a href="https://github.com/idanmoreira">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=idanmoreira&show_icons=true&count_private=true&hide_border=true&title_color=1de58e&icon_color=665ea9&text_color=1de58e&bg_color=24242f" alt="Danilo Moreira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idanmoreira&layout=compact&hide_border=true&title_color=1de58e&text_color=1de58e&bg_color=24242f" />
+</div>
+<div style="display: inline_block"><br>
+
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=idanmoreira&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=idanmoreira&theme=dracula&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
+  ##
+ <div align="center">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -17,4 +30,6 @@
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>    
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>            
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg"/>
-  </div>
+ </div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=665ea9&height=120&section=footer&text=✌😊✌&fontSize=30&fontColor=1de58e&animation=twinkling&fontAlignY=80"/>
