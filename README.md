@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=665ea9&height=120&section=header&text=Danilo+Moreira&fontSize=30&fontColor=1de58e&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1de58e&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;you+can+call+me+Dan;I'm+always+looking+to+evolve;by+learning+and+improving+my+skills!;be+welcome!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1de58e&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;You+can+call+me+Dan.;I'm+always+looking+to+evolve,;By+learning+and+improving+my+skills!;Be+welcome!)
 
 
 
