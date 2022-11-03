@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=665ea9&height=120&section=header&text=Danilo+Moreira&fontSize=30&fontColor=1de58e&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=665ea9&height=120&section=header&text=&fontSize=30&fontColor=1de58e&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1de58e&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;You+can+call+me+Dan.;I'm+always+looking+to+evolve,;By+learning+and+improving+my+skills!;Be+welcome!)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1de58e&size=30&center=true&vCenter=true&width=1050&lines=Hi+there!+👋;Welcome+to+my+Github+profile.;My+name's+Danilo,+but+you+can+call+me+Dan.;I+am+always+eager+to+learn+new+skills;in+order+to+enhance+my+professional+abilities.;I+look+forward+to+meeting+you+to+discuss+how+I+can+support+you.)
 
 
 ##
@@ -12,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=idanmoreira&theme=gotham&hide_border=true&area=true)
+  ![Contribution](https://activity-graph.herokuapp.com/graph?username=idanmoreira&layout=compact&hide_border=true&title_color=1de58e&text_color=1de58e&bg_color=24242f&hide_border=true&area=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=idanmoreira&theme=dracula&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
